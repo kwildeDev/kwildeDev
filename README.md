@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kwildedev&label=Profile%20views&color=0e75b6&style=flat" alt="kwildedev" /> </p>
 
-- 🔭 I’m currently working on [Treasurer Trail](https://github.com/kwildeDev/be-treasurer-trail), [Scene Locally](https://github.com/kwildeDev/be-scene-locally)
+- 🔭 I’m currently working on [Treasurer Trail](https://github.com/kwildeDev/be-treasurer-trail), [Scene Locally](https://github.com/kwildeDev/fe-scene-locally)
 
-- 🌱 I’m currently learning **TypeScript, Next.js, AWS**
+- 🌱 I’m currently learning **TypeScript, Next.js, AWS, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://katherinewilde.netlify.app/](https://katherinewilde.netlify.app/)
 
