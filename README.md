@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Treasurer Trail](https://github.com/kwildeDev/be-treasurer-trail), [Scene Locally](https://github.com/kwildeDev/fe-scene-locally)
 
-- 🌱 I’m currently learning **TypeScript, Next.js, AWS, MongoDB**
+- 🌱 I’m currently learning **TypeScript, C# / .NET, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://katherinewilde.netlify.app/](https://katherinewilde.netlify.app/)
 
