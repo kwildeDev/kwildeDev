@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kwildedev&label=Profile%20views&color=0e75b6&style=flat" alt="kwildedev" /> </p>
 
-- 🔭 I’m currently working on [ClubLedger](https://github.com/kwildeDev/club-ledger), [Scene Locally](https://github.com/kwildeDev/fe-scene-locally)
+- 🔭 I’m currently working on [ClubLedger](https://github.com/kwildeDev/club-ledger), [Scene Locally](https://github.com/kwildeDev/fe-scene-locally), [Meds Manager](https://github.com/kwildeDev/meds-manager)
 
 - 🌱 I’m currently learning **TypeScript, C# / .NET, MongoDB**
 
