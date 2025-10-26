@@ -136,9 +136,5 @@ Here are some ideas to get you started:
 
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kwildedev&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="kwildedev" /></p>
-
 <p><img align="center" src="https://streak-stats.demolab.com?user=kwildedev&theme=radical&hide_border=true" alt="kwildedev" /></p>
--->
---
-
 -->
